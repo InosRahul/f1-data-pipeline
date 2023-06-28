@@ -8,6 +8,7 @@ sources:
       - name: constructor_standings
       - name: constructor_results
       - name: drivers
+      - name: driver_standings
       - name: lap_times
       - name: pit_stops
       - name: qualifying

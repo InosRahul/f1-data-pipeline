@@ -1,0 +1,13 @@
+f1_analysis:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: service-account
+      keyfile: /Users/rahulsoni/.google/credentials/google_credentials.json
+      project: de-divvy-project
+      dataset: f1_dataset
+      threads: 4
+      timeout_seconds: 300
+      location: asia-south1
+      priority: interactive

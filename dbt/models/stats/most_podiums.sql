@@ -1,6 +1,6 @@
 with finishes_by_driver as (
   select *
-    from {{ ref('finishes_by_drivers') }}
+    from {{ ref('finishes_by_driver') }}
 ),
 final as (
   select rank() over (order by podiums desc) as rank,

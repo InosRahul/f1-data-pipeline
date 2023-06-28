@@ -1,0 +1,10 @@
+.vscode
+.conda
+.terraform.*
+.terraform
+.DS_Store
+target/
+dbt_packages/
+logs/
+terraform.tfstate
+terraform.tfstate.backup

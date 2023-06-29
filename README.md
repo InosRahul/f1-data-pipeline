@@ -11,7 +11,7 @@ The project consists of the following components:
 - DBT Integration: DBT is utilized to derive new columns and maintain an up-to-date dataset.
 - Data Visualization: The transformed data is visualized in a looker dashboard for easy analysis.
 
-
-
 ### Dashboard Demo
 ![](demo/f1-stats-dashboard.webp)
+
+[Dashboard Link](https://lookerstudio.google.com/reporting/9fd225dd-a9b8-45d9-87dc-7d7dbae0c841)

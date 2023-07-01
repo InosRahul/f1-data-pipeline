@@ -12,7 +12,7 @@ The project consists of the following components:
 - Data Visualization: The transformed data is visualized in a looker dashboard for easy analysis.
 
 ### Pipeline Architecture
-![](demo/pipeline.svg)
+![](demo/pipeline.png)
 
 ### Dashboard Demo
 ![](demo/f1-stats-dashboard.webp)
